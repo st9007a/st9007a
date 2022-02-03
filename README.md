@@ -12,7 +12,7 @@
 
 - Python (of course, it's my daily work.)
 - C/C++/CUDA
-- Rust (still learning, if a language is more safe and maybe fast than C++, why not ?)
+- Rust (still learning, if a language is more safe and may be faster than C++, why not ?)
 - Lua (still learning, to write a pretty neovim config.)
 - Javascript (ever, but I think I forget most of it.)
 
@@ -27,6 +27,6 @@
 
 ## Interested in but not familiar with ...
 
-- Compiler/Intrpreter
+- Compiler/Interpreter
 - GPU Architecture
 - BLAS
