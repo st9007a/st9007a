@@ -1,8 +1,8 @@
 ## About Me
 
 - A programmer working in machine learning and deep learning now.
-- Around 6 years experience of coding.
-- Around 2 years experience about working as a software engineer and data scientist.
+- Start coding from 2015.
+- Being a software engineer and data scientist from 2019.
 - A big fan of [NeoVim](https://github.com/neovim/neovim).
 - A fan of [TensorFlow](https://www.tensorflow.org)
 
